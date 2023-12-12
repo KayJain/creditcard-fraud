@@ -7,5 +7,5 @@ stages:
     params:
     - make_dataset.test_split
     - make_dataset.seed
-    #outs:
-    #- .\data\processed\
+    outs:
+    - .\data\processed\
