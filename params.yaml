@@ -1,3 +1,8 @@
 make_dataset:
   seed: 2024
   test_split: 0.2
+
+train_model:
+  n_estimators: 10
+  max_depth: 6
+  seed: 2024
