@@ -19,3 +19,5 @@ stages:
     - train_model.n_estimators
     - train_model.seed
     - train_model.max_depth
+    outs:
+    - .\models\
